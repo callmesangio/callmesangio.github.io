@@ -1,0 +1,17 @@
+.about-author {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 3rem;
+  flex-wrap: wrap;
+}
+
+.about-author > * {
+  flex: 1;
+  min-width: 300px;
+}
+
+.about-author > img {
+  max-width: 50%;
+  border-radius: 50%;
+}

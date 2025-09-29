@@ -4,15 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+<div class="about-author">
+  <img alt="The author" src="{{ "/assets/avatar.jpg" | relative_url }}">
+  <div>
+    <h3>Hi there!</h3>
+    <p>
+      I'm Fabio, I am a software developer, and this blog is about things I
+      find interesting in tech.<br>
+      I write here to keep track of stuff I learn working with computers, and
+      to point people to structured, long form versions of my thoughts.<br>
+      I'm glad you're here, and thanks for reading.
+    </p>
+  </div>
+</div>
